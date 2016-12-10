@@ -22,8 +22,8 @@ $ mkdir $GOPATH
 $ go get -v -u github.com/lxc/lxd
 $ cd $GOPATH/src/github.com/lxc/lxd
 
-# Check out a stable version
-# git checkout 2.0.8
+# Check out a stable version e.g.
+# git checkout lxd-2.0.8
 $ make
 
 
